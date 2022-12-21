@@ -13,6 +13,7 @@ Some of my projects for the near future will probably be:
 - Team Shift Management app
 - Workflow Engine
 - **ReTool** like app
+- Streaming app prototype with decent filters and lists!
 
 <!---
 ricardomntavares/ricardomntavares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
