@@ -8,7 +8,7 @@
 
 Some of my projects for the near future will probably be:
 
-- To Do app (gotta start somewehre!)
+- To Do app (gotta start somewhere!)
 - Simple, yet cool, visual audio eq animation with Web Audio API
 - **WebRTC** app that connects to a **FreePBX** or similar
 - Team Shift Management app
